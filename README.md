@@ -33,8 +33,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofavaro&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofavaro&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favaroedu&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favaroedu&layout=compact&theme=github_dark" />
 </div>
 
 ---
