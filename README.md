@@ -12,7 +12,7 @@
 
 - 💻 Apaixonado por desenvolvimento de software e games
 - 🔭 Sempre explorando novas tecnologias e boas práticas
-- 🌱 Atualmente aprendendo mais sobre Unity, C#, Python e Quality Assurance.
+- 🌱 Atualmente aprendendo mais sobre Quality Assurance, C#, JavaScript.
 - 📫 Você pode me encontrar no LinkedIn ou aqui no GitHub!
 
 ---
