@@ -10,9 +10,9 @@
 
 ### 🧠 Sobre mim
 
-- 💻 Apaixonado por desenvolvimento de software e games
+- 💻 Apaixonado por desenvolvimento e qualidade de software
 - 🔭 Sempre explorando novas tecnologias e boas práticas
-- 🌱 Atualmente aprendendo mais sobre Quality Assurance, C#, JavaScript.
+- 🌱 Atualmente aprendendo mais sobre Quality Assurance.
 - 📫 Você pode me encontrar no LinkedIn ou aqui no GitHub!
 
 ---
@@ -23,19 +23,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/Qase-brightgreen?style=flat&logo=qase&logoColor=white&color=%234f46dc">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jira-brightgreen?style=flat&logo=Jira&logoColor=white&color=%230A0FFF">
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/Playwright-brightgreen?style=flat&logo=playwright&logoColor=white&color=%1C8921">
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favaroedu&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favaroedu&layout=compact&theme=github_dark" />
-</div>
 
 ---
 
