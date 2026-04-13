@@ -10,9 +10,9 @@
 
 ### 🧠 Sobre mim
 
-- 💻 Apaixonado por desenvolvimento e qualidade de software
+- 💻 QA Analyst apaixonado por tecnologia
 - 🔭 Sempre explorando novas tecnologias e boas práticas
-- 🌱 Atualmente aprendendo mais sobre Quality Assurance.
+- 🌱 Atualmente aprendendo mais sobre automação de testes
 - 📫 Você pode me encontrar no LinkedIn ou aqui no GitHub!
 
 ---
